@@ -1,6 +1,8 @@
 
 https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmrforsyte.github.io%2F
-https://mrforsyte.github.io/
+https://mrforsyte.github.io
+
+
 https://github.com/mrforsyte/mrforsyte.github.io/tree/gh-pages
 
 
